@@ -36,6 +36,6 @@
 -- A/
 
 --------------------------------------------------------
-8. Q/ Каква разликата между Path variable и Query parameter?
+8. Q/ Каква е разликата между Path variable и Query parameter?
 
 -- A/  
